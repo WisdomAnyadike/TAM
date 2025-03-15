@@ -424,7 +424,7 @@ textarea.form-control {
 }
 
 .dark-layout .preloader:after {
-    background-image: url(https://html.kodesolution.com/2023/disle-html/images/logo.png);
+    background-image: url(https://cdn.imgpile.com/f/dNX7cGu_xl.PNG);
 }
 
 .dark-layout .sticky-header {
@@ -665,6 +665,7 @@ textarea.form-control {
 .tm-boxed-layout .header #header-logo {
     margin: 0;
     padding-top: 27px;
+
 }
 
 .tm-boxed-layout .banner-section .slide-item {
