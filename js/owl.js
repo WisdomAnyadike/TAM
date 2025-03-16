@@ -2826,6 +2826,7 @@
 		dotsSpeed: false,
 		dotsContainer: false
 	};
+	
 
 	/**
 	 * Initializes the layout of the plugin and extends the carousel.

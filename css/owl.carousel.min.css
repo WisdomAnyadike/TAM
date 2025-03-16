@@ -7,7 +7,7 @@
 
 /**
  * Owl Carousel v2.2.1
- * Copyright 2013-2017 David Deutsch
+ * Copyright 2013-2017 David Deutsch 
  * Licensed under  ()
  */
 /*
@@ -78,6 +78,21 @@
   
   .owl-carousel.owl-loaded {
     display: block; }
+
+    /* .owl-prev::before {
+      content: "\f104"; /* Unicode for FontAwesome left arrow */
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      font-size: 20px;
+    }
+    
+    .owl-next::before {
+      content: "\f105"; /* Unicode for FontAwesome right arrow */
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      font-size: 20px;
+    } */
+    
   
   .owl-carousel.owl-loading {
     opacity: 0;
