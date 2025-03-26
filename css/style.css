@@ -48,10 +48,10 @@ License: copyright commercial
 
 :root {
     --theme-color-light: #ffffff;
-    --theme-color-dark: #0c1127;
+    --theme-color-dark: #0d1220;
     --theme-color1: #ee763c;
     --bg-theme-color1: var(--theme-color1);
-    --theme-color2: #0c1127;
+    --theme-color2: #0d1220;
     --bg-theme-color2: var(--theme-color2);
     --text-color-bg-theme-color1: #fff;
     --text-color-bg-theme-color2: #fff;
@@ -90,7 +90,7 @@ License: copyright commercial
     --sec-title-font-weight: 800;
     --theme-light-background: #f8f6f1;
     --theme-light-background-text-color: var(--headings-color);
-    --theme-black: #0c1127;
+    --theme-black: #0d1220;
     --container-width: 1200px;
     --small-container-width: 1000px;
     --large-container-width: 1310px;
@@ -1409,8 +1409,8 @@ Scroll To Top style
     background-image: url(https://www.colorhexa.com/0c0c27.png);
 }
 
- .bg-pattern-2 {
-    background-image: url(https://html.kodesolution.com/2023/disle-html/images/icons/pattern-2.jpg);
+.bg-pattern-2 {
+    background-image: url(https://html.kodesolution.com/2023/disle-html/icons/pattern-2.jpg);
 }
 
 .bg-pattern-3 {
@@ -1423,11 +1423,11 @@ Scroll To Top style
 
 
 .bg-pattern-5 {
-    background-image: url(https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149011157.jpg?t=st=1742114925~exp=1742118525~hmac=55f7f6e77c45b0f31ebb8170d3ef2057d639ac166c7bd4e9fd54683899099642&w=2000);
+    background-image: url(https://img.freepik.com/free-vector/gradient-dark-dynamic-lines-background_23-2148995950.jpg?t=st=1742972915~exp=1742976515~hmac=f13f623e9619818c2426a35a22209849b049900f2eb112739c860439a04a4b5a&w=2000);
 }
 
 .bg-pattern-6 {
-    background-image: url(https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149011157.jpg?t=st=1742114925~exp=1742118525~hmac=55f7f6e77c45b0f31ebb8170d3ef2057d639ac166c7bd4e9fd54683899099642&w=2000);
+    background-image: url(https://img.freepik.com/free-vector/gradient-dark-dynamic-lines-background_23-2148995950.jpg?t=st=1742972915~exp=1742976515~hmac=f13f623e9619818c2426a35a22209849b049900f2eb112739c860439a04a4b5a&w=2000);
 }
 
 .bg-pattern-7 {
@@ -1849,6 +1849,14 @@ Scroll To Top style
 .nav-style-one .prev .icon:before {
     left: -25px;
     right: auto;
+}
+
+.service-details-content div {
+    margin-top: 50px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 20px;
 }
 
 .nav-style-one .swiper-button-disabled {
@@ -14793,7 +14801,7 @@ Sidebar
 .footer-bottom {
     position: relative;
     z-index: 3;
-    background-color: #0c1127;
+    background-color: #0d1220;
     padding: 35px 0;
 }
 
