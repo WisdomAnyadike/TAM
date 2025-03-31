@@ -26,7 +26,7 @@ tpj(document).ready(function() {
                     drag_block_vertical: false
                 },
                 arrows: {
-                    style:"gyges",
+                    style:"custom",
                     enable:true,
                     hide_onmobile:true,
                     hide_under:600,
